@@ -1,4 +1,4 @@
-# Realtime Data Streaming With TCP Socket, Apache Spark, Kafka and Elasticsearch 
+# Realtime Data Streaming With TCP Socket, NLP, Apache Spark, Kafka and Elasticsearch 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This project serves as a comprehensive guide to building an end-to-end data engineering pipeline using TCP/IP Socket, Apache Spark, Machine Learning, Kafka and Elasticsearch. It covers each stage from data acquisition, processing, sentiment analysis with SVM model, production to kafka topic and connection to elasticsearch.
+This project serves as a comprehensive guide to building an pipeline using TCP/IP Socket, Apache Spark, Machine Learning, Kafka and Elasticsearch. It covers each stage from data acquisition, processing, sentiment analysis with SVM model, production to kafka topic and connection to elasticsearch.
 
 ## System Architecture
 ![System_architecture.png](assets%2FSystem_architecture.png)
@@ -28,6 +28,7 @@ The project is designed with the following components:
 ## Technologies
 
 - Python
+- Machine Learning
 - TCP/IP
 - Confluent Kafka
 - Apache Spark
